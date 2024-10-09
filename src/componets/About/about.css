@@ -9,7 +9,7 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 3rem;
-    background: linear-gradient(45deg,, transparent, var(--color-primary), transparent);
+    background: linear-gradient(45deg,transparent, var(--color-primary), transparent);
     display: grid;
     place-items: center;
 }
@@ -61,12 +61,14 @@
 .about_card small{
     color: var(--color-light);
     font-size: 0.7rem;
+
 }
 
 .about_content p{
 
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+    text-align: justify;
 }
 
 @media screen and (max-width: 1024px) {
