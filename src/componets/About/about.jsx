@@ -10,7 +10,7 @@ import {FaFolderOpen} from 'react-icons/fa'
 
 const about = () =>{
        return(
-             <section id='about'>
+            <section id='about'>
               <h5>Everything you need</h5>
               <h5>to know</h5>
               <h2>About Me</h2>
