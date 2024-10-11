@@ -51,7 +51,7 @@
     "@babel/plugin-transform-unicode-property-regex": "^7.25.7",
     "netlify-cli": "^2.13.1",
     "postcss-flexbugs-fixes": "^5.0.2",
-    "webpack": "^5.95.0",
-    "webpack-dev-server": "^5.1.0"
+    "webpack": "^4.47.0",
+    "webpack-dev-server": "^3.11.3"
   }
 }
