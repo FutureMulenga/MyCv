@@ -45,12 +45,12 @@ const about = () =>{
                   </div>
 
                   <p>
-                        My name is Future Mulenga. I am a Fullstack developer, studying for a Bachelor's degree in
-                        computer science at Copperbelt University. I have experience in several programming
-                        languages such as C++, Java, Python, PHP, C#, and JavaScript. As a developer, I am always
-                        excited to jump on different projects as it helps me learn different technologies.
-                        I also own a small business for printing and accessories, where I spend my spare time if
-                        I am not programming.
+                    My name is Future Mulenga.I am a Fullstack developer, studying for a Bachelor's degree in
+                    computer science at Copperbelt University. I have experience in several programming
+                    languages such as C++, Java, Python, PHP, C#, and JavaScript. As a developer, I am always
+                    excited to jump on different projects as it helps me learn different technologies. I also
+                    own a small business for printing and accessories, where I spend my spare time if I am not
+                    programming.
                   </p>
 
                   <a href={G12} target='_blank' rel='noopener noreferrer' className='btn'>View Grade 12 certificate</a>
