@@ -1,3 +1,4 @@
+import React from 'react';
 import project from '../../assets/project.png'
 import pic2 from '../../assets/pexels-photo-177598.jpeg'
 import pic3 from '../../assets/pexels-photo-546819.jpeg'

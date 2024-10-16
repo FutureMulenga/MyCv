@@ -53,7 +53,7 @@ const about = () =>{
                         I am not programming.
                   </p>
 
-                  <a href={G12} target='_blank' rel='noreferrer' className='btn'>View Grade 12 certificate</a>
+                  <a href={G12} target='_blank' rel='noopener noreferrer' className='btn'>View Grade 12 certificate</a>
                     
             </div>
             </div>

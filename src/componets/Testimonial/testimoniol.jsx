@@ -4,11 +4,12 @@ import image1 from "../../assets/profile.jpg"
 import image2 from "../../assets/photo.png"
 import image3 from "../../assets/Logo.png"
 import image4 from "../../assets/photo.png"
-import {Pagination} from 'swiper/modules';
-import { Swiper, SwiperSlide } from 'swiper/react';
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/pagination';
+import Swiper from 'swiper'
+import SwiperSlide from 'swiper'
+import {Pagination} from 'swiper/modules'
+
+
+
 
 
 const data = [

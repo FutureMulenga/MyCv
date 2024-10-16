@@ -1,3 +1,4 @@
+import React from 'react'
 import Header from "./componets/Header/header"
 import Navigation from "./componets/Navigation/nav"
 import About from "./componets/About/about"
